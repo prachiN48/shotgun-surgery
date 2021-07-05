@@ -1,4 +1,4 @@
-package coding.practices
+package coding.practices.shotgunSurgery
 
 fun main() {
     val personalAccount = SavingsAccount("AC1234", 1000)

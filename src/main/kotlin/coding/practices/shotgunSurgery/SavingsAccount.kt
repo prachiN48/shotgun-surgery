@@ -1,4 +1,4 @@
-package coding.practices
+package coding.practices.shotgunSurgery
 
 class SavingsAccount(private val accountNumber: String, private var amount: Int) {
     fun debit(debit: Int) {
